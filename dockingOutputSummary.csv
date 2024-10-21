@@ -1,0 +1,10 @@
+SMILES,ID,dockingScore
+NC(=O)C1CCN(Cc2ccc(-c3cc4nccc(Nc5ccc6[nH]ccc6c5)c4s3)cc2)CC1,DO-F208BF4F,-9.523
+COc1ccc2c(c1)NC(=O)/C2=C\c1[nH]c2c(c1CCC(=O)O)CCCC2,DO-D8681B4E,-9.559
+CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1,DO-C7ED760F,-8.358
+N#CC(C#N)=C(N)/C(C#N)=C/c1cc(O)c(O)c(O)c1,DO-FE5D2A4B,-6.405
+N#CC(C#N)=Cc1ccc(O)c(O)c1,DO-AC12074A,-6.407
+COc1cc2ncnc(Nc3cc4cccnc4c4ncccc34)c2cc1OC,DO-FB25FCBB,-9.519
+Oc1ccc2cc(-c3ccncc3)cnc2c1,DO-AB468A6C,-8.119
+Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\C(=O)Nc2ncnc(Nc3ccc(F)c(Cl)c3)c21,DO-F2A9201B,-8.731
+O=C(O)CCCc1cccs1,DO-BCEEADAD,-5.488

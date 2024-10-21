@@ -1,0 +1,11 @@
+numpy==1.24.4
+openbabel==3.1.1.1
+OpenMM==8.0.0
+pdbfixer==1.9.0
+pillow==10.4.0
+pip==24.2
+polars==1.8.2
+rdkit==2024.3.2
+setuptools==75.1.0
+vina==1.2.5
+wheel==0.44.0
